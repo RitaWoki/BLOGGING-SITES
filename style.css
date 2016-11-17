@@ -1,0 +1,23 @@
+.intro{
+  color: blue;
+  text-align: left;
+  font-style: normal;
+  background-color: black;
+
+}
+
+.flashy{
+  color: red;
+  text-align: left;
+  background-color: white;
+
+
+}
+
+.hymn{
+  color: indigo;
+  text-align: left;
+  border-color: red;
+
+
+}
