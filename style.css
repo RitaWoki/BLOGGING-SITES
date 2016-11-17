@@ -3,6 +3,8 @@
   text-align: left;
   font-style: normal;
   background-color: black;
+  margin-top: 12px;
+  margin-bottom: 9px;
 
 }
 
@@ -10,6 +12,8 @@
   color: red;
   text-align: left;
   background-color: white;
+  margin-top: 11px;
+  margin-bottom: 8px;
 
 
 }
@@ -18,6 +22,8 @@
   color: indigo;
   text-align: left;
   border-color: red;
+  margin-top: 7px;
+  margin-top: 6px;
 
 
 }
